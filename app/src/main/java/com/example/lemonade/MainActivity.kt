@@ -94,7 +94,7 @@ class MainActivity : AppCompatActivity() {
                 lemonSize--
                 if (lemonSize == 0) {
                     lemonadeState = DRINK
-                    //   setViewElements()
+                    //  setViewElements()
                 }
             }
 
